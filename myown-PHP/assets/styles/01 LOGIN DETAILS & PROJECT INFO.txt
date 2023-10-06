@@ -2,7 +2,7 @@
 
 **Database Name: sbtbsphp**
 
-**Developed by Cheruku Nithesh Reddy**
+**Developed by Gurijala Vaishnavi Reddy**
 
 **Recommended PHP Version 5.6 or Newer**
 
